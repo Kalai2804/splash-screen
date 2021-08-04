@@ -1,6 +1,8 @@
 # splashh
 
-A new Flutter project.
+A new Flutter project>
+splash screen for scanner application
+
 
 ## Getting Started
 
